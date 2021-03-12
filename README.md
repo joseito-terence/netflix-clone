@@ -11,7 +11,7 @@ Netflix Clone a web app that queries [TMDb](https://developers.themoviedb.org/3/
 
 <img src="images/Screenshot-homepage.jpeg" alt="Screenshot-homepage">
 
-Trailers a played directly in the app itself. (as shown in the image below)
+Trailers are played directly in the app itself. (as shown in the image below)
 
 <img src="images/Screenshot-youtube-trailer.jpeg" alt="Screenshot-youtube-trailer" />
 
